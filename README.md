@@ -26,3 +26,4 @@ is multiples by 5. If the number is not multiples by 3 or 5, it will then return
 |  Num  | Project                                                                                                   | Author                                            |
 | ----- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------|
 |   1   | [Bookstore](https://github.com/JamesSmith232/BookStore)                                                   | [James Smith](https://github.com/JamesSmith232)   |
+|   2   | [FizzBuzz](https://github.com/JamesSmith232/FizzBuzz)                                                     | [James Smith](https://github.com/JamesSmith232)   |
