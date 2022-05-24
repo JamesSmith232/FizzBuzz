@@ -1,7 +1,6 @@
-# FizzBuzz
+<h1 align="center">FizzBuzz</h1>
 
-### Description
-
+## Description
 Prints a list of numbers with the range given by the users. This list program will replace the numbers that are divisible by 3, 5, 
 or both with the corresponding words Fizz, Buzz, Fizzbuzz. 
 
@@ -13,7 +12,17 @@ list being the FizzBuzz list.
 either of the two constants of 3 and 5 declared at the beginning of the program. The isDivisor method will 
 then use the modulus operator to find the divison remainder of the num and divisor variables. It will then return 
 true/false based on if the divison remainder equals 0. 
-- **_calcFizzBuzz:_** This method calls the _isDivisble_ method to see if the number given is divisible by 3 or 5. The
-first if statement checks if the number are both divisble of 3 or 5, for example the number 15, and returns "FizzBuzz" if
-it is. The second if statement returns "Fizz" if the number is divisble by 3, and the third returns "Buzz" if the number 
-is divisible by 5. If the number is not divisible by 3 or 5, it will then return a string of the number that was given. 
+- **_calcFizzBuzz:_** This method calls the _isDivisble_ method to see if the number given is multiples by 3 or 5. The
+first if statement checks if the number are both multiples of 3 or 5, for example the number 15, and returns "FizzBuzz" if
+it is. The second if statement returns "Fizz" if the number is multiples by 3, and the third returns "Buzz" if the number 
+is multiples by 5. If the number is not multiples by 3 or 5, it will then return a string of the number that was given. 
+
+## Outcome
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/80684500/170111645-339617ca-170f-455b-9f6e-eee84667e848.JPG" alt="Sublime's custom image"/>
+</p>
+
+## Projects
+|  Num  | Project                                                                                                   | Author                                            |
+| ----- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------|
+|   1   | [Bookstore](https://github.com/JamesSmith232/BookStore)                                                   | [James Smith](https://github.com/JamesSmith232)   |
