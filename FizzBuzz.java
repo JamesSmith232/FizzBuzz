@@ -29,7 +29,7 @@ public class FizzBuzz {
         System.out.println(""); 
         
         for (int i = start; i <= end; i++) {
-            System.out.println(i +"  =  "+ calcFizzBuzz(i));
+            System.out.println("\t\t\t\t\t\t" + i + "  =  " + calcFizzBuzz(i));
         }
     }
     
