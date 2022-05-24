@@ -1,13 +1,3 @@
-
-/**
-This program will take a range from the user and print out the FizzBuzz of those numbers.
-When one of the  numbers is a multiple of three, it will print out "Fizz" instead. A multiple
-of 5 will produce "Buzz", and a multiple of both 3 and 5 will print out "FizzBuzz".
- 
- --James Hunter Smith
- --May 19, 2022
-**/
- 
 import java.util.Scanner;
 
 public class FizzBuzz {
