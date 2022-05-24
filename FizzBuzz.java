@@ -20,7 +20,10 @@ public class FizzBuzz {
         int start = 0; 
         int end = 0; 
         
-        System.out.println("This program will print the Fizzbuzz of the range you decide.\n");
+        System.out.println("==================================================================================================================");
+        System.out.println("This program will print the Fizzbuzz numbers in the range you decide.");
+        System.out.println("FizzBuzz is a list of numbers that change depending on if the number is a multiple of 3, 5, or both");
+        System.out.println("==================================================================================================================\n");
         
         System.out.println("What is the number you want to start at: ");
         start = keyboard.nextInt();  
@@ -29,7 +32,7 @@ public class FizzBuzz {
         System.out.println(""); 
         
         for (int i = start; i <= end; i++) {
-            System.out.println("\t\t\t\t\t\t" + i + "  =  " + calcFizzBuzz(i));
+            System.out.println("\t\t\t\t\t\t" + i + "  =  "+ calcFizzBuzz(i));
         }
     }
     
