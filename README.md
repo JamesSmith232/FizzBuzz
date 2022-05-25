@@ -4,7 +4,7 @@
 Prints a list of numbers with the range given by the users. This list program will replace the numbers that are divisible by 3, 5, 
 or both with the corresponding words Fizz, Buzz, Fizzbuzz. 
 
-This program has three different methods: main, isDivisible, and calcFizzBuzz:
+This program has three different methods: main, isDivisible, and calcFizzBuzz.
  - **_main:_** Gets the required range from the user. It will then use a for loop to call the calcFizzBuzz 
 method to display two list of numbers. One being a normal list of numbers in the range provided and the second 
 list being the FizzBuzz list. 
