@@ -1,3 +1,10 @@
+/**
+--This program will print the Fizzbuzz numbers in the range you decide--
+        Author: James Hunter Smith
+        Email: james.smith048@topper.wku.edu
+        Last Changed: August 18, 2020
+**/
+
 import java.util.Scanner;
 
 public class FizzBuzz {
