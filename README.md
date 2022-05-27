@@ -23,9 +23,11 @@ is multiples by 5. If the number is not multiples by 3 or 5, it will then return
 </p>
 
 ## Projects
-|  Num  | Project                                                                                                   | Author                                            |
-| ----- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------|
+|  Num  | Project                                                                                                   | Author                                          |
+| ----- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------|
 |   1   | [Bookstore](https://github.com/JamesSmith232/BookStore)                                                   | [James Smith](https://github.com/JamesSmith232)   |
 |   2   | [FizzBuzz](https://github.com/JamesSmith232/FizzBuzz)                                                     | [James Smith](https://github.com/JamesSmith232)   |
 |   3   | [RockPaperScissors](https://github.com/JamesSmith232/RockPaperScissors)                                   | [James Smith](https://github.com/JamesSmith232)   |
 |   4   | [Grader](https://github.com/JamesSmith232/Grader)                                                         | [James Smith](https://github.com/JamesSmith232)   |
+|   5   | [StoreManager](https://github.com/JamesSmith232/StoreManager)                                             | [James Smith](https://github.com/JamesSmith232)   |
+
