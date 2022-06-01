@@ -19,15 +19,19 @@ is multiples by 5. If the number is not multiples by 3 or 5, it will then return
 
 ## Outcome
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/80684500/170111645-339617ca-170f-455b-9f6e-eee84667e848.JPG" alt="Sublime's custom image"/>
+  <img src="https://user-images.githubusercontent.com/80684500/171483687-1bd3d43e-2bfe-43e4-8899-c6465e33d69f.JPG" alt="Sublime's custom image"/>
+  <img src="https://user-images.githubusercontent.com/80684500/171483689-915128d6-7bcc-4e3b-be2d-6619d0bff69a.JPG" alt="Sublime's custom image"/>
+  <img src="https://user-images.githubusercontent.com/80684500/171483691-10454eb1-6cc3-41b4-9f17-3733df734d76.JPG" alt="Sublime's custom image"/>
 </p>
 
 ## Projects
 |  Num  | Project                                                                                                 | Author                                            |
 | ----- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------|
 |   1   | [Bookstore](https://github.com/JamesSmith232/BookStore)                                                 | [James Smith](https://github.com/JamesSmith232)   |
-|   2   | [FizzBuzz](https://github.com/JamesSmith232/FizzBuzz)                                                   | [James Smith](https://github.com/JamesSmith232)   |
-|   3   | [RockPaperScissors](https://github.com/JamesSmith232/RockPaperScissors)                                 | [James Smith](https://github.com/JamesSmith232)   |
-|   4   | [Grader](https://github.com/JamesSmith232/Grader)                                                       | [James Smith](https://github.com/JamesSmith232)   |
-|   5   | [StoreManager](https://github.com/JamesSmith232/StoreManager)                                           | [James Smith](https://github.com/JamesSmith232)   |
-|   6   | [TicTacToe](https://github.com/JamesSmith232/TicTacToe)                                                 | [James Smith](https://github.com/JamesSmith232)   |
+|   2   | [Lottery](https://github.com/JamesSmith232/Lottery)                                                     | [James Smith](https://github.com/JamesSmith232)   |
+|   3   | [FizzBuzz](https://github.com/JamesSmith232/FizzBuzz)                                                   | [James Smith](https://github.com/JamesSmith232)   |
+|   4   | [RockPaperScissors](https://github.com/JamesSmith232/RockPaperScissors)                                 | [James Smith](https://github.com/JamesSmith232)   |
+|   5   | [Grader](https://github.com/JamesSmith232/Grader)                                                       | [James Smith](https://github.com/JamesSmith232)   |
+|   6   | [StoreManager](https://github.com/JamesSmith232/StoreManager)                                           | [James Smith](https://github.com/JamesSmith232)   |
+|   7   | [TicTacToe](https://github.com/JamesSmith232/TicTacToe)                                                 | [James Smith](https://github.com/JamesSmith232)   |
+
