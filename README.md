@@ -19,9 +19,7 @@ is multiples by 5. If the number is not multiples by 3 or 5, it will then return
 
 ## Outcome
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/80684500/171483687-1bd3d43e-2bfe-43e4-8899-c6465e33d69f.JPG" alt="Sublime's custom image"/>
-  <img src="https://user-images.githubusercontent.com/80684500/171483689-915128d6-7bcc-4e3b-be2d-6619d0bff69a.JPG" alt="Sublime's custom image"/>
-  <img src="https://user-images.githubusercontent.com/80684500/171483691-10454eb1-6cc3-41b4-9f17-3733df734d76.JPG" alt="Sublime's custom image"/>
+  <img src="https://user-images.githubusercontent.com/80684500/171492815-64695f77-30d3-4cde-b6a8-6e333b132bc2.JPG" alt="Sublime's custom image"/>
 </p>
 
 ## Projects
